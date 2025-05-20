@@ -1,6 +1,6 @@
 # hospital_search
 
-A new Flutter project.
+hospital_search Flutter project.
 
 ## Getting Started
 
